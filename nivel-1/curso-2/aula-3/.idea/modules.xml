@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/aula-3.iml" filepath="$PROJECT_DIR$/.idea/aula-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios/desafio1/desafio1.iml" filepath="$PROJECT_DIR$/desafios/desafio1/desafio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios/desafio2/desafio2.iml" filepath="$PROJECT_DIR$/desafios/desafio2/desafio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios/desafio3/desafio3.iml" filepath="$PROJECT_DIR$/desafios/desafio3/desafio3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios/desafio4/desafio4.iml" filepath="$PROJECT_DIR$/desafios/desafio4/desafio4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/screenmatch/screenmatch.iml" filepath="$PROJECT_DIR$/screenmatch/screenmatch.iml" />
+    </modules>
+  </component>
+</project>
