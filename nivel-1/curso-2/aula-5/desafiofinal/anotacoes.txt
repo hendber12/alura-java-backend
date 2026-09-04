@@ -1,0 +1,13 @@
+Desafio - Criar uma Aplicação de música
+
+Superclasse (sugestão de nome: Audio)
+- Titulo
+- Total de Reproducoes
+- Curtidas
+- Classificacao
+
+Heranças (Podcasts, Músicas.)
+
+Métodos Encapsulados
+- Curtir
+- Reproduzir
